@@ -16,6 +16,7 @@ h1 {
 
 h2 {
     font-size: 42px;
+    font-weight: 300;
 }
 
 p {
@@ -24,5 +25,6 @@ p {
 }
 
 .footer {
+    color: Gray;
     text-align: right;
-} 
+}
